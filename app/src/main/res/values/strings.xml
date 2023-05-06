@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Harvest Hub</string>
+    <string name="FAQs">FAQs</string>
+    <string name="contactus">contactus</string>
+    <string name="ticket">ticket</string>
+    <string name="call_us">call us</string>
+    <string name="sendemail">send an email</string>
+    <string name="submitquestion">submit</string>
+    <string name="submitanswer">submit</string>
+    <string name="submitticket">submit</string>
+    <string name="back">back to home </string>
+</resources>
+
+
